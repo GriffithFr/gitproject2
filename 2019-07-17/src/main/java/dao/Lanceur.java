@@ -46,6 +46,7 @@ public class Lanceur {
 	Adresse adresse3 = new Adresse ("rue3","Ville3");
 	Adresse adresse4 = new Adresse ("rue4","Ville4");
 	Adresse adresse5 = new Adresse ("rue5","Ville5");
+	Adresse adresse6 = new Adresse ("ruerguhru","villeifhirhvr");
 	
 	Personne personne1 = new Personne ("prenom1","nom1");
 	Personne personne2 = new Personne ("prenom2","nom2");
